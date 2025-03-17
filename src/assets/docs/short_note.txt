@@ -1,0 +1,9 @@
+Q:
+Is there any life cycle in functional components?
+A:
+Yes, we can handle life cycle by using useEffect
+
+Q:
+useEffect normally used for ?
+A:
+For data fetch
